@@ -1,0 +1,19 @@
+{
+  "name": "YangXiaoSheng",
+  "short_name": "YangXiaoSheng",
+  "description": "杨晓生",
+  "icons": [{
+    "src": "icons/icon_128.jpg",
+    "sizes": "128x128",
+    "type": "image/jpg"
+  }, {
+    "src": "icons/icon_512.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }],
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
